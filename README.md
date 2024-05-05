@@ -55,7 +55,7 @@ Para contribuir com este projeto, por favor, envie um pull request ou abra uma i
 
 ## Contato
 
-Para mais informações, entre em contato através do e-mail: pedro.gustavo6565@gmail(mailto:SeuEmail@exemplo.com).
+Para mais informações, entre em contato através do e-mail: (pedro.gustavo6565@gmail).
 
 ---
 
