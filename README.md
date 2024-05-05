@@ -56,7 +56,3 @@ Para contribuir com este projeto, por favor, envie um pull request ou abra uma i
 ## Contato
 
 Para mais informações, entre em contato através do e-mail: (pedro.gustavo6565@gmail).
-
----
-
-Esse template cobre as principais informações que você deve incluir no README. Certifique-se de personalizar o conteúdo de acordo com as especificidades do seu projeto e adicione qualquer outra informação relevante que acredite ser necessária.
